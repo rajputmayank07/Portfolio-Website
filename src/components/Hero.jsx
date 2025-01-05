@@ -22,7 +22,7 @@ const Hero = () => {
                     className="rounded-full w-32 h-32 mx-auto mb-4"
                 />
                 <h1 className="text-2xl font-bold">Mayank Singh</h1>
-                <p className="text-gray-600 mb-4">Full Stack Developer</p>
+                <p className="text-gray-600 mb-4">Software Developer</p>
                 <hr className="w-3/4 mx-auto border-gray-300 mb-4" />
                 <div className="flex align-center justify-center mt-4">
                     <a

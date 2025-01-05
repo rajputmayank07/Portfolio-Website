@@ -5,13 +5,13 @@ import { SiCplusplus, SiExpress, SiBootstrap, SiMysql } from "react-icons/si"; /
 
 const Skills = () => {
     const skills = [
+        { name: "C++", icon: <SiCplusplus className="text-blue-500 text-4xl" /> },
         { name: "React.js", icon: <FaReact className="text-blue-600 text-4xl" /> },
         { name: "Node.js", icon: <FaNodeJs className="text-green-600 text-4xl" /> },
         { name: "Express.js", icon: <SiExpress className="text-gray-600 text-4xl" /> },
         { name: "MongoDB", icon: <FaDatabase className="text-green-500 text-4xl" /> },
         { name: "MySQL", icon: <SiMysql className="text-blue-500 text-4xl" /> },
         { name: "JavaScript", icon: <FaJsSquare className="text-yellow-500 text-4xl" /> },
-        { name: "C++", icon: <SiCplusplus className="text-blue-500 text-4xl" /> },
         { name: "Bootstrap", icon: <SiBootstrap className="text-purple-600 text-4xl" /> },
         { name: "HTML", icon: <FaHtml5 className="text-orange-600 text-4xl" /> },
         { name: "CSS", icon: <FaCss3Alt className="text-blue-400 text-4xl" /> },
